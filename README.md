@@ -1,6 +1,6 @@
 # Weather app
 
-Aplicación del clim creada con React JS desde 0. 
+Aplicación del clima creada con React JS desde 0. 
 
 ## Instalación y ejecución
 
