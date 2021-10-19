@@ -1,2 +1,11 @@
 # Weather app
-Application that lets you know the weather in any city in the world in real time. 
+
+Aplicación del clim creada con React JS desde 0. 
+
+## Instalación y ejecución
+
+Descargar todos los archivos, luego abrir el proyecto y ejecutar el comando "npm start"
+
+¡Ya estará listo para mostrarte el clima de cualquier ciudad del mundo!
+
+
